@@ -1,7 +1,8 @@
 # internet-test-script
 Python script to test my internet speed everytime I turn on my computer.
 
-Using the _Windows Task Scheduler_ I made this script run everytime windows starts.
+
+I used the _Windows Task Scheduler_ to run the script everytime I turn on my computer.
 
 After running, sends data to a database running locally in my computer.
 
